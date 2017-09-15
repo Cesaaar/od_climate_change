@@ -5,11 +5,15 @@ Analisi dei cambiamenti climatici
 | Fonte | Descrizione | Link |
 | ------ | ------ | ------ |
 | Mauna Loa | Osservatorio Mauna Loa, Hawaii (NOAA-ESRL) |https://www.esrl.noaa.gov/gmd/ccgg/trends/data.html |
+| NOAA Climate National Climate Data Center| GISS Surface Temperature Analysis (GISTEMP)| https://data.giss.nasa.gov/gistemp/ |
+| CDIAC | Carbon Dioxide Information Analysis Center | http://cdiac.ornl.gov/trends/emis/tre_glob.html |
 
 ## Visualizzazioni
 | File | Descrizione |
 | ------ | ------ |
-| trend_co2.png | Trend Anidride Carbonica |
+| trend_co2.png | Trend Concentrazione Anidride Carbonica |
+| trend_temp.png | Trend Temperatura Terrestre |
+| co2_emission.csv | Emissioni CO2 per Paese |
 
 ## Configurazioni
 Queste istruzioni ti permetteranno di realizzare una copia del progetto in locale per eseguire il codice.
